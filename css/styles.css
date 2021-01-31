@@ -303,6 +303,10 @@ li {
     height: 40rem;
     right: -10%;
   }
+
+  .hero-content h1 span {
+    font-size: 3rem;
+  }
 }
 
 @media only screen and (max-width: 567px) {
@@ -329,7 +333,7 @@ li {
   }
 
   .hero-content h1 span {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .hero-content a {
@@ -628,7 +632,7 @@ li {
 
 @media only screen and (max-width: 996px) {
   .product-banner .content h1 span {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
@@ -642,7 +646,7 @@ li {
   }
 
   .product-banner .content h1 span {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .product-banner .content h2 {
