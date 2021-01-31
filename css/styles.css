@@ -1030,7 +1030,7 @@ th {
   text-align: left;
   padding: 0.5rem;
   color: #fff;
-  background-color: #fc7c7c;
+  background-color: #243a6f;;
   font-weight: normal;
 }
 
@@ -1043,9 +1043,11 @@ td input {
   height: 3rem;
   padding: 0.5rem;
 }
-
+.checkout{
+  background-color: #243a6f;
+}
 td a {
-  color: orangered;
+  color: rgb(185, 0, 0);
   font-size: 1.4rem;
 }
 
@@ -1064,7 +1066,7 @@ td img {
 }
 
 .total-price table {
-  border-top: 3px solid #fc7c7c;
+  border-top: 3px solid#243a6f;;
   width: 100%;
   max-width: 35rem;
 }
