@@ -884,7 +884,7 @@ form span {
 .product-detail .thumbnail {
   width: 10rem;
   height: 10rem;
-  background-color: #f6f2f1;
+  background-color: transparent;
   text-align: center;
 }
 
@@ -981,7 +981,7 @@ form span {
   .product-detail .thumbnail {
     width: auto;
     height: 10rem;
-    background-color: #f6f2f1;
+    background-color: transparent;
     text-align: center;
     padding: 0.5rem;
   }
