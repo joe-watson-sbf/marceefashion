@@ -494,7 +494,7 @@ li {
 
 .product {
   height: 48rem;
-  background-color: transparent;
+  background-color: #fff;
   box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.15);
   border-radius: 1rem;
   text-align: center;
@@ -864,7 +864,7 @@ form span {
 
 .product-detail .left .main {
   text-align: center;
-  background-color: transparent;
+  background-color: #f6f2f1;
   margin-bottom: 2rem;
   height: 45rem;
   padding: 3rem;
@@ -884,7 +884,7 @@ form span {
 .product-detail .thumbnail {
   width: 10rem;
   height: 10rem;
-  background-color: transparent;
+  background-color: #f6f2f1;
   text-align: center;
 }
 
@@ -981,7 +981,7 @@ form span {
   .product-detail .thumbnail {
     width: auto;
     height: 10rem;
-    background-color: transparent;
+    background-color: #f6f2f1;
     text-align: center;
     padding: 0.5rem;
   }
